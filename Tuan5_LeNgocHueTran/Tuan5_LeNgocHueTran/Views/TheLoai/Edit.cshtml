@@ -11,12 +11,12 @@
     @Html.ValidationSummary(true)
     <fieldset>
         <div class="editor-field">
-            Tên loại:
+            Tên loại: <input type="submit" value="Save" />
             @Html.TextBox("tenloai");
             @ViewData["Error"]
         </div>
         <p>
-            <input type="submit" value="Save" />
+           
         </p>
     </fieldset>
 }

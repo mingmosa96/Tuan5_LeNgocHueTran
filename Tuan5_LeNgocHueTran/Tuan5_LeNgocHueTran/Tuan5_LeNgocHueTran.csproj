@@ -185,11 +185,15 @@
     <Content Include="Views\TheLoai\Details.cshtml" />
     <Content Include="Views\TheLoai\Create.cshtml" />
     <Content Include="Views\TheLoai\Edit.cshtml" />
+    <Content Include="Views\Sach\ListSach.cshtml" />
     <Content Include="Views\TheLoai\Delete.cshtml" />
+    <Content Include="Views\Sach\Detail.cshtml" />
+    <Content Include="Views\Sach\Edit.cshtml" />
+    <Content Include="Views\Sach\Create.cshtml" />
+    <Content Include="Views\Sach\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Sach\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

@@ -7,11 +7,12 @@
 <h2>Delete</h2>
 <fieldset>
     <div class="display-label">Mã loại: @Html.Encode(Model.maloai)</div>
-    <div class="display-label">Tên loại: @Html.Encode(Model.tenloai)</div>
+    <div class="display-label">Tên loại: @Html.Encode(Model.tenlpai)</div>
 </fieldset>
 @using (Html.BeginForm())
 {
-    <p>
+    <div>
         <input type="submit" value="Delete" />
-    </p>
+        @Html.ActionLink("Back to list", "Index")
+    </div>
 }
