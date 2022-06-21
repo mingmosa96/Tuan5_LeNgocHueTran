@@ -156,3 +156,7 @@ D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\obj\Debug\Tuan5_L
 D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\obj\Debug\Tuan5_LeNgocHueTran.csproj.CopyComplete
 D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\obj\Debug\Tuan5_LeNgocHueTran.dll
 D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\obj\Debug\Tuan5_LeNgocHueTran.pdb
+D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\bin\PagedList.dll
+D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\bin\PagedList.Mvc.dll
+D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\bin\PagedList.xml
+D:\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\Tuan5_LeNgocHueTran\bin\PagedList.Mvc.xml
