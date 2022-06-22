@@ -23,6 +23,7 @@
                     <li>@Html.ActionLink("Thể loại", "Index", "Theloai")</li>
                     <li>@Html.ActionLink("Sách", "ListSach", "Sach")</li>
                     <li>@Html.Partial("~/Views/GioHang/GioHangPartial.cshtml")</li>
+                    <li>@Html.ActionLink("Dang ky", "DangKy", "NguoiDung")</li>
                 </ul>
             </div>
         </div>
@@ -37,7 +38,8 @@
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("upload",required: false)
     @RenderSection("scripts", required: false)
-    @RenderSection("upload", required: false)
+
 </body>
 </html>
